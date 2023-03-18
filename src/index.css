@@ -1,7 +1,12 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
+@font-face {
+	font-family: "Fontspring";
+	src: url("./assets/fonts/Grotesklylig.otf"),
+		url("./assets/fonts/Grotesklymed.otf")
+			format("opentype");
+}
 @-webkit-keyframes AnimationName {
   0%{background-position:0% 15%}
   50%{background-position:100% 86%}
@@ -14,7 +19,7 @@
 }
 
 .blue__gradient {
-  background: linear-gradient(180deg, rgba(0, 51, 12, 0.251) 0%, #0cd0ac61 100%);
+  background: linear-gradient(180deg, rgba(0, 51, 12, 0.452) 0%, #0cd0ac55 100%);
   filter: blur(123px);
   background-size: 400% 400%;
 
@@ -33,7 +38,7 @@
 }
 
 .purple__gradient{
-  background: linear-gradient(90deg, #ffafd0c1 0%, #ff84b75f 100%);
+  background: linear-gradient(90deg, #ffafd0c1 0%, #ff84b773 100%);
   filter: blur(280px);
   background-size: 400% 400%;
   -webkit-animation: purpleanimation 5s ease infinite;
