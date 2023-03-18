@@ -2,16 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-.hero-gradient{
-  background: linear-gradient(225deg, #ba6223 28%,#66ebff 65%,#57ff45 65%,#4d4aff 100%);
-  background-clip: text;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-size: 800% 800%;
-  -webkit-text-fill-color: transparent;
-  -webkit-animation: AnimationName 15s ease infinite;
-  animation: AnimationName 15s ease infinite;
-}
 @-webkit-keyframes AnimationName {
   0%{background-position:0% 15%}
   50%{background-position:100% 86%}
@@ -22,15 +12,7 @@
   50%{background-position:100% 86%}
   100%{background-position:0% 15%}
 }
-.text-gradient{
-color: #ffffff;
-background-image: -webkit-linear-gradient(0deg, #ffffff 23%,#dadada 42%,#ffffff 63%,#cfcfcf 74%);
-background-clip: text;
--webkit-background-clip: text;
-text-fill-color: transparent;
--webkit-text-fill-color: transparent;
 
-}
 .blue__gradient {
   background: linear-gradient(180deg, rgba(0, 51, 12, 0.251) 0%, #0cd0ac61 100%);
   filter: blur(123px);
