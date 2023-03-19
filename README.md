@@ -1,7 +1,7 @@
 # A random Password generator
-<img src="src/assets/screen.png" alt="screen" width="50">
+<img src="src/assets/screen.png" alt="screen" width="200">
 
-[LIVE DEMO](https://bravilo.web.app/)
+[LIVE DEMO HERE](https://bravilo.web.app/)
 
 # Getting Started with Create React App
 
