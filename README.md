@@ -1,5 +1,5 @@
 # A random Password generator
-<img src="src/assets/screen.png" alt="screen" width="200">
+<img src="src/assets/screen.png" alt="screen" width="400">
 
 [LIVE DEMO HERE](https://bravilo.web.app/)
 
