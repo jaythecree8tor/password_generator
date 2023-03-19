@@ -1,5 +1,3 @@
 import Navbar from "../components/Navbar";
-
-export {
-Navbar
-}
+import Footer from "./Footer";
+export { Footer, Navbar };
