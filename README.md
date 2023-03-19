@@ -1,3 +1,8 @@
+# A random Password generatoe
+![Screenshot](/src/assets/screen.png)
+
+[LIVE DEMO](https://bravilo.web.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
