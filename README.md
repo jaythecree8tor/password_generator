@@ -1,4 +1,4 @@
-# A random Password generatoe
+# A random Password generator
 ![Screenshot](/src/assets/screen.png)
 
 [LIVE DEMO](https://bravilo.web.app/)
